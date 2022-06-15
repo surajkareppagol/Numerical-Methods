@@ -22,4 +22,8 @@ This repo includes the generated object files with `base name with no extension`
 
 ![regression output](outputImages/regression.png)
 
+#### Rank co-relation output
+
+![regression output](outputImages/rankcorelation.png)
+
 More methods coming soon.
