@@ -4,26 +4,16 @@ This projects includes **C Programs** for various numerical methods such as curv
 
 There will be a **C Library** with all the function of these programs.Some program outputs are shown below.
 
-## How to run it?
-
-This repo includes the generated object files with `base name with no extension` just open `objectFiles` folder and run this on command line or open the source file `(file name).c` in any IDE and execute it.
-
-```
-./base name with no extension
-```
-
 ## Programs outputs
 
 #### Curve fitting output
 
-![curvefitting output](outputImages/curvefitting.png)
+![curve fitting output](https://raw.githubusercontent.com/surajkareppagol/Assets/main/20%20-%20Numerical-Methods/curvefitting.png)
 
 #### Regression coefficient output
 
-![regression output](outputImages/regression.png)
+![regression output](https://raw.githubusercontent.com/surajkareppagol/Assets/main/20%20-%20Numerical-Methods/regression.png)
 
 #### Rank co-relation output
 
-![regression output](outputImages/rankcorelation.png)
-
-More methods coming soon.
+![regression output](https://raw.githubusercontent.com/surajkareppagol/Assets/main/20%20-%20Numerical-Methods/rankcorelation.png)
